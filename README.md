@@ -1,16 +1,17 @@
 # album_apk_on_api
 
-A new Flutter project.
+# Exposé GL3 Groupe 3
+
+Membres du groupe
+ - AIGBA Franck (GL)
+ - ABIMBOLA Dara (GL)
+ - GRIMAUD Oswaldo (GL)
+ - LOKOSSOU Romerik (GL)
+
+## People management App
+
+A new Flutter project for applaying how to fetch data on api.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Application pour le TP de mobile de GL3
